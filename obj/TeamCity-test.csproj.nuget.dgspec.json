@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/dh97/code/TeamCity-test/TeamCity-test.csproj": {}
+  },
+  "projects": {
+    "/home/dh97/code/TeamCity-test/TeamCity-test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dh97/code/TeamCity-test/TeamCity-test.csproj",
+        "projectName": "TeamCity-test",
+        "projectPath": "/home/dh97/code/TeamCity-test/TeamCity-test.csproj",
+        "packagesPath": "/home/dh97/.nuget/packages/",
+        "outputPath": "/home/dh97/code/TeamCity-test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dh97/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/dh97/devtools/.dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
